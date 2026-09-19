@@ -169,6 +169,7 @@ section {
   border-top: 3px dotted var(--white);
   border-bottom: 3px dotted var(--white);
 
+  
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
@@ -276,7 +277,7 @@ section {
   width: 130px;
   height: 115px;
   margin: 1.5rem auto;
-  transform: rotate(-3deg);
+  transform: rotate(-3deg); 
 }
 
 .heart::before,
